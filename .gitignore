@@ -8,3 +8,5 @@ bfs_pram
 !mpi_diff*
 !openmp_diff*
 !utils.h
+.DS_Store
+!README.md
